@@ -66,7 +66,7 @@ linkedin: glencooney
 resume: https://drive.google.com/open?id=10g5xo0YWzcLa-SjFWtq8r5FdDOE1TI9P
 
 # Gems
-gems:
+plugins:
     - jekyll-mentions
     - jekyll-feed
     - jekyll-sitemap
