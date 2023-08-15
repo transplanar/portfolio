@@ -2,12 +2,12 @@
 layout: page
 title: About Glen
 tags: [about, web, game, social]
-date: 2020-04-02
+date: 2023-08-14
 comments: false
 ---
 
-_Beginning in the world of Game Development, I have found a new home in software engineering, particularly test automation. Through the process of being in the trenches with code up close, I have been able to quickly learn unfamiliar technologies and methods and contribute in compelling ways in a short amount of time._
+I am an SDET based in Portland, Oregon with my lovely wife Jessica and stepdaughter. Coming from a background in game design and project management, I have come to hone my technical and collaboration skills to maximize my individual and team productivity.
 
-_Recent events have gotten me connecting with my core passions - living a life of purpose, introspection, and meaning beyond myself. When I am immersed in code, I become one with my work, forgetting myself and the world around me. But I don't just want an escape anymore - I want my work to ease the burdens of others and make life richer for everyone._
+Of particular interest are methodologies like Behavior-Driven Development (BDD) and its ability to bring alignment on goals as well as clarity on test outcomes.
 
-_Following a wonderful stint at Vacasa, I am seeking out new horizons and opportunities to grow my skills further. COVID-19 has put the whole world on edge, and I want to do my part to help out those in need with the skills I have to offer._
+Outside of work, I am a big fan of board games, fancy lattes, cocktails, and adventurous travel.

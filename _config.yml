@@ -1,17 +1,17 @@
 # Site
 title: Glen Cooney
-bio: "Coder and Decoder of Web, Game, and Social Systems"
+bio: "SDET | BDD | Cypress"
 description: "Welcome to my official portfolio site"
 reading_time: true
 words_per_minute: 200
 # logo:               'assets/img/logo.png'
-logo: "assets/img/meface_no-border.png"
+logo: "assets/img/glen2023.png"
 background: "assets/img/placeholder-big.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
 base_url: /portfolio/
-url: https://transplanar.github.io/portfolio/
-# url:                http://127.0.0.1:4000/
+# url: https://transplanar.github.io/portfolio/
+url: http://127.0.0.1:4000/
 
 # Jekyll
 permalink: /:title/
@@ -41,7 +41,7 @@ google:
     #ad-slot:
 #bing-verify:
 email: glen@glencooney.com
-twitter: transplanar
+# twitter: transplanar
 # facebook:           glen.cooney
 github: transplanar
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
@@ -63,7 +63,7 @@ linkedin: glencooney
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-resume: https://drive.google.com/open?id=10g5xo0YWzcLa-SjFWtq8r5FdDOE1TI9P
+resume: https://docs.google.com/document/d/1ICE4tLAR0Kd2vX2ylavVShS9XTVIwyCehPxDTz9EARM/edit?usp=share_link
 
 # Gems
 plugins:
